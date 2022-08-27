@@ -5,7 +5,7 @@
   <head>
     
     <img src="princessmononoke.png"></>
-    <img SPC="(nome da imagem).png">
+    <img SPC="princessamononoke.png">
     <h1> Site 1  
   
   <head>
